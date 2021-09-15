@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
 # *This page is just a test*
+## **My name is Camille Cornet**
 
-You can use the [editor on GitHub](https://github.com/CamilleCornet/TestRepo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![CamilleCornet](https://user-images.githubusercontent.com/90718342/133403172-2f5ecdfd-9e2e-4d88-ae6b-abd4655b0e31.jpg)
 
 ### Markdown
 
@@ -29,9 +27,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CamilleCornet/TestRepo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
