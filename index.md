@@ -1,7 +1,8 @@
 # *Test page where I present myself*
 ## **My name is Camille Cornet**
 
-![CamilleCornet](https://user-images.githubusercontent.com/90718342/133403172-2f5ecdfd-9e2e-4d88-ae6b-abd4655b0e31.jpg)
+
+<img src="https://user-images.githubusercontent.com/90718342/133403172-2f5ecdfd-9e2e-4d88-ae6b-abd4655b0e31.jpg" width="200" height="200"/>
 
 
 
